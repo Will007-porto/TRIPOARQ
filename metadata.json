@@ -1,0 +1,6 @@
+{
+  "name": "TRIPOARQ",
+  "description": "Calculador e gerenciador de medições de arqueação de tanques de combustível com simulador mobile integrado e persistência local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

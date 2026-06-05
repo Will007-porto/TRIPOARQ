@@ -1,0 +1,6 @@
+{
+  "appId": "com.arqueacao.corporativa",
+  "appName": "TRIPOARQ",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
